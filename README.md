@@ -1,0 +1,7 @@
+- 👋 Hi, I’m **Eze Anyaegbu**
+- 👀 I’m interested in **Software Development, AI, and Full-stack Web Development**
+- 🌱 I’m currently learning **Advanced Python, Data Structures, Algorithms, and React**
+- 💞️ I’m looking to collaborate on **open-source projects, AI applications, and web development projects**
+- 📫 How to reach me: **eze.anyaegbu@gmail.com** or through my [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I built a random recipe generator using OpenAI's API using limited ingredients.**
