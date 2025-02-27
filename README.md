@@ -9,7 +9,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page :
+🔭 I’m currently working on my personal website
   
 🌱 I’m currently learning : Advanced Python, Data Structures, Algorithms, React
 
@@ -20,7 +20,7 @@
 📫 How to reach me:  
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
 
-⚡ Fun fact: I built a random recipe generator using OpenAI's API with limited ingredients.
+⚡ Fun fact: I built a software to help students on campus look for their lost items.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeanyaegbu)
