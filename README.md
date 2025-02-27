@@ -22,10 +22,17 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
 
 ⚡ Fun fact: I built a software to help students on campus look for their lost items.
 
+<p align="center">
+ <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+</p>
+
+## 📄 Resume
+You can view my resume here: [My Resume](https://drive.google.com/file/d/10w1SwQcXwJtwYw8oN4z5VF4QfKvob_KF/view?usp=sharing)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeanyaegbu)
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,7 +56,6 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
   
  [Best Google Fonts for your website](https://dev.to/[YourUsername]/best-google-fonts-for-your-website-3e5k)
 <!-- BLOG-POST-LIST:END -->
-
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
