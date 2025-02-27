@@ -50,5 +50,5 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=[YourUsername]&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=dyno-star&label=Visitors+Count&color=brightgreen)
 </div>
