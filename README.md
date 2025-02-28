@@ -44,8 +44,7 @@ You can view my resume here: [My Resume](https://drive.google.com/file/d/10w1SwQ
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=dyno-star&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+# 📊GitHub Stats :[![Eze's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star/github-readme-activity-graph)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyno-star&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyno-star&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
