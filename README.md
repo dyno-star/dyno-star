@@ -8,7 +8,7 @@
 ---
 <div align="center">
   
-# 💫About Me :
+# 💫About Me : 
 🔭 I’m currently working on my personal website
   
 🌱 I’m currently learning : Advanced Python, Data Structures, Algorithms, React
