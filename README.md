@@ -9,7 +9,7 @@
 <div align="center">
   
 # 💫About Me : 
-🔭 I’m currently working on my personal website
+🔭 I’m currently working on a AI detector to help recy
   
 🌱 I’m currently learning : Advanced Python, Data Structures, Algorithms, React
 
