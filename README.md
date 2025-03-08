@@ -15,7 +15,8 @@
 
 👯 I’m looking to collaborate on open-source projects, AI applications, and web development projects
 
-💬 Feel free to ask me for help with Software Development or AI!
+💬 Feel free to ask me for help with Software Development or AI!  
+
 
 📫 How to reach me:  
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
