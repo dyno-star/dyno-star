@@ -5,7 +5,6 @@
 <p align="center"> 
   <a href="https://github.com/dyno-star"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Eze+Anyaegbu;I+am+a+College+Student;Web+Dev;Cloud+Engineering;"></a>
 </p>
----
 <div align="center">
   
 # 💫About Me : 
@@ -52,9 +51,9 @@ You can view my resume here: [My Resume](https://drive.google.com/file/d/1367XIU
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/[YourUsername]/10-must-have-3rd-party-services-for-all-websites-584m)
+ [10 must have 3rd party services for all websites](https://dev.to/[dyno-star]/10-must-have-3rd-party-services-for-all-websites-584m)
   
- [Best Google Fonts for your website](https://dev.to/[YourUsername]/best-google-fonts-for-your-website-3e5k)
+ [Best Google Fonts for your website](https://dev.to/[dyno-star]/best-google-fonts-for-your-website-3e5k)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
