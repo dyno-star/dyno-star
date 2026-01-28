@@ -9,9 +9,9 @@
 <div align="center">
   
 # 💫About Me : 
-🔭 I’m currently working on **B.A.G.S (Basic Artificial Garbage Sorter)**, a recycling app designed to detect plastic bags and improve recycling sorting to prevent the loss of reusable materials.  
+🔭 I’m currently fiinshed working on **B.A.G.S (Basic Artificial Garbage Sorter)**, a recycling app designed to detect plastic bags and improve recycling sorting to prevent the loss of reusable materials.  
   
-🌱 I’m currently learning : Advanced Python, Data Structures and Algorithms, React
+🌱 I’m currently learning : Advanced Python, Data Structures and Algorithms, AWS.
 
 👯 I’m looking to collaborate on open-source projects, AI applications, and web development projects
 
