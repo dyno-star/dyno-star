@@ -51,9 +51,10 @@ You can view my resume here: [My Resume](https://drive.google.com/file/d/1367XIU
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 must-have 3rd party services for all websites](https://dev.to/dynostar/10-must-have-3rd-party-services-for-all-websites-584m)
-- [Best Google Fonts for your website](https://dev.to/dynostar/best-google-fonts-for-your-website-3e5k)
+- [10 Must-Have Third-Party Services for Every Website](https://dev.to/ruppysuppy/10-must-have-third-party-services-for-every-website-3n9j)
+- [Best Google Fonts for Your Website](https://dev.to/ritza/best-google-fonts-for-your-website-4p9a)
 <!-- BLOG-POST-LIST:END -->
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
