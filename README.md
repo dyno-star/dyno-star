@@ -13,9 +13,9 @@
   
 🌱 I’m currently learning : Advanced Python, Data Structures and Algorithms, AWS.
 
-👯 I’m looking to collaborate on open-source projects, AI applications, and web development projects
+👯 I’m looking to collaborate on open-source projects, AI applications, and full stack web development projects
 
-💬 Feel free to ask me for help with Software Development or AI!  
+💬 Feel free to ask me for help with Software Development!  
 
 
 📫 How to reach me:  
@@ -28,7 +28,7 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
 </p>
 
 ## 📄 Resume
-You can view my resume here: [My Resume](https://drive.google.com/file/d/10w1SwQcXwJtwYw8oN4z5VF4QfKvob_KF/view?usp=sharing)
+You can view my resume here: [My Resume](https://drive.google.com/file/d/1367XIUIarqXQcSUXkU27d1H8HtcnBQkv/view?usp=drive_link)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeanyaegbu)
