@@ -48,13 +48,6 @@ You can view my resume here: [My Resume](https://drive.google.com/file/d/1367XIU
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dyno-star&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyno-star&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [10 Must-Have Third-Party Services for Every Website](https://dev.to/ruppysuppy/10-must-have-third-party-services-for-every-website-3n9j)
-- [Best Google Fonts for Your Website](https://dev.to/ritza/best-google-fonts-for-your-website-4p9a)
-<!-- BLOG-POST-LIST:END -->
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
