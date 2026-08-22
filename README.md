@@ -70,28 +70,19 @@ You can view my resume here:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# 📈 Contribution Graph
+
+[![Eze Anyaegbu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star)
+
 ---
 
 # 📊 GitHub Stats
 
-![Eze's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyno-star&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://streak-stats.demolab.com?user=dyno-star&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dyno-star&theme=radical&hide_border=false)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dyno-star&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
-
-# 📈 Contribution Graph
-
-[![Eze's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star)
-
----
-
 ### ✍️ Random Dev Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
