@@ -21,10 +21,7 @@ I’m looking to collaborate on **open-source projects, AI applications, and ful
 
 Feel free to ask me about **Software Development!**
 
-**How to reach me:**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
-
-⚡ **Fun fact:** I built software to help students on campus find their lost items.
+**Fun fact:** I built software to help students on campus find their lost items.
 
 <p align="center">
   <picture>
