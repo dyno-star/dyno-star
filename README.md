@@ -72,9 +72,14 @@ You can view my resume here:
 
 # Contribution Graph
 
-[![Eze Anyaegbu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star)
+<p align="center">
+  <a href="https://github.com/dyno-star">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula&hide_border=true&area=true" alt="Eze Anyaegbu's Contribution Graph" width="100%">
+  </a>
+</p>
 
 ---
+
 
 # GitHub Stats
 
