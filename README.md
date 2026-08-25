@@ -34,7 +34,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
 
 ---
 
-## 📄 Resume
+## Resume
 
 You can view my resume here:
 
@@ -42,7 +42,7 @@ You can view my resume here:
 
 ---
 
-## 🌐 Socials
+## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezeanyaegbu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyno-star)
@@ -70,13 +70,13 @@ You can view my resume here:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 [![Eze Anyaegbu's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula)](https://github.com/dyno-star)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=dyno-star&theme=radical&hide_border=false" alt="GitHub Streak" />
 
@@ -99,7 +99,7 @@ You can view my resume here:
 
 ---
 
-### 👀 Profile Visitors
+### Profile Visitors
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dyno-star&label=Visitors+Count&color=brightgreen)
 
