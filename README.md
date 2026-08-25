@@ -19,7 +19,7 @@ I’m currently learning **Backend Development, Data Structures & Algorithms, an
 
 I’m looking to collaborate on **open-source projects, AI applications, and full-stack web development projects**.
 
-💬 Feel free to ask me about **Software Development!**
+Feel free to ask me about **Software Development!**
 
 📫 **How to reach me:**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ezeanyaegbu)
