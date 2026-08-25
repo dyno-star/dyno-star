@@ -17,7 +17,7 @@ I recently finished working on **B.A.G.S (Basic Artificial Garbage Sorter)**, a 
 
 I’m currently learning **Backend Development, Data Structures & Algorithms, and Kurbenetes**.
 
-👯 I’m looking to collaborate on **open-source projects, AI applications, and full-stack web development projects**.
+I’m looking to collaborate on **open-source projects, AI applications, and full-stack web development projects**.
 
 💬 Feel free to ask me about **Software Development!**
 
