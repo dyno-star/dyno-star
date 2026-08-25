@@ -71,7 +71,7 @@ You can view my resume here:
 
 <p align="center">
   <a href="https://github.com/dyno-star">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyno-star&theme=dracula&hide_border=true&area=true" alt="Eze Anyaegbu's Contribution Graph" width="100%">
+    <img src="https://raw.githubusercontent.com/dyno-star/dyno-star/output/activity-graph.svg" alt="Eze Anyaegbu's Contribution Graph" width="100%">
   </a>
 </p>
 
