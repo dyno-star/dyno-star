@@ -80,9 +80,9 @@ You can view my resume here:
 
 # GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=dyno-star&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-<br/>
+<p align="center">
+  <img src="./profile/streak.svg" alt="Eze Anyaegbu's GitHub Streak">
+</p>
 
 ---
 ### Random Dev Quote
