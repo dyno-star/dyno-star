@@ -97,7 +97,6 @@ You can view my resume here:
 
 ![Built by Developers](https://forthebadge.com/images/badges/built-by-developers.svg)
 
-![Uses Brains](https://forthebadge.com/images/badges/uses-brains.svg)
 
 ---
 
